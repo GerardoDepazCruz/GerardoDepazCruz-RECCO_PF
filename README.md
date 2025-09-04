@@ -60,11 +60,42 @@ mvn spring-boot:run
 | Jennifer   | Administradora de Base de Datos     | Crear y gestionar la base en MySQL, modelar tablas y relaciones            |
 
 ## Flujo de Trabajo en Git
-![Inicio](https://raw.githubusercontent.com/usuario/repositorio/main/dpaz/IMG/inicio.png)
 
-## Capturas de Pantalla
-### **Usuario**
-#### Inicio
 
-#### Lista de Productos
-#### Carrito de Compras
+## Capturas de Pantalla 
+Con este link podras convertir tus img a url: <https://imgur.com/upload>
+
+### **USUARIO**
+
+#### **Inicio**
+![Inicio](https://i.imgur.com/ADArejY.png)
+#### **Lista de Productos**
+![Productos](https://i.imgur.com/vJWG6rL.png)
+#### **Carrito de Compras**
+#### **Pedidos personalizado**
+![Pedidos_Personalizados](https://i.imgur.com/cZymRJr.png)
+#### **Nosotros**
+![Pedidos_Personalizados](https://i.imgur.com/TH1lplc.png)
+#### **Iniciar sesion y Crear Cuenta**
+![Pedidos_Personalizados](https://i.imgur.com/2Q9TjoD.png)
+![Pedidos_Personalizados](https://i.imgur.com/LfvIkIu.png)
+
+### **ADMINISTRADOR**
+#### **Gestionar productos**
+![Pedidos_Personalizados](https://i.imgur.com/oVAQ13o.png)
+![Pedidos_Personalizados](https://i.imgur.com/Igjz9ZS.png)
+#### **Lista de usuarios**
+![Pedidos_Personalizados](https://i.imgur.com/uFpMHvM.png)
+#### **Los pedidos**
+![Pedidos_Personalizados](https://i.imgur.com/dXBVuZc.png)
+
+
+
+
+
+
+
+
+
+
+
